@@ -1,4 +1,4 @@
-* {
+/** {
   box-sizing: border-box;
 }
 
@@ -27,4 +27,4 @@ body {
 
 .square:hover {
   cursor: pointer;
-}
+}*/
